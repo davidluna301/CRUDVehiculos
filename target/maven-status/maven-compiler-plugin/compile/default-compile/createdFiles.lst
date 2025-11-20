@@ -1,0 +1,10 @@
+com\example\vehiculos\VehiculosApplication.class
+com\example\vehiculos\service\VehiculoService.class
+com\example\vehiculos\config\IndexConfig.class
+com\example\vehiculos\controller\VehiculoController.class
+com\example\vehiculos\config\DataLoader.class
+com\example\vehiculos\repository\VehiculoRepository.class
+com\example\vehiculos\exception\GlobalExceptionHandler.class
+com\example\vehiculos\model\Vehiculo$TipoVehiculo.class
+com\example\vehiculos\model\Vehiculo.class
+com\example\vehiculos\config\MongoConfig.class
